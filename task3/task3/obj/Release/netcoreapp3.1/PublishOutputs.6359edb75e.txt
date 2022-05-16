@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\PerfomanceLab\tasks\task3\task3\bin\Release\netcoreapp3.1\publish\task3.exe
+C:\Users\Acer\Desktop\PerfomanceLab\tasks\task3\task3\bin\Release\netcoreapp3.1\publish\task3.dll
+C:\Users\Acer\Desktop\PerfomanceLab\tasks\task3\task3\bin\Release\netcoreapp3.1\publish\task3.deps.json
+C:\Users\Acer\Desktop\PerfomanceLab\tasks\task3\task3\bin\Release\netcoreapp3.1\publish\task3.runtimeconfig.json
+C:\Users\Acer\Desktop\PerfomanceLab\tasks\task3\task3\bin\Release\netcoreapp3.1\publish\task3.pdb
+C:\Users\Acer\Desktop\PerfomanceLab\tasks\task3\task3\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

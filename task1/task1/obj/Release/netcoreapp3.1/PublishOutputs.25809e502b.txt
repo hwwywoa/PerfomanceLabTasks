@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\Perfomance lab\PerfomanceLabTasks\task1\task1\bin\Release\netcoreapp3.1\publish\task1.exe
+C:\Users\Acer\Desktop\Perfomance lab\PerfomanceLabTasks\task1\task1\bin\Release\netcoreapp3.1\publish\task1.dll
+C:\Users\Acer\Desktop\Perfomance lab\PerfomanceLabTasks\task1\task1\bin\Release\netcoreapp3.1\publish\task1.deps.json
+C:\Users\Acer\Desktop\Perfomance lab\PerfomanceLabTasks\task1\task1\bin\Release\netcoreapp3.1\publish\task1.runtimeconfig.json
+C:\Users\Acer\Desktop\Perfomance lab\PerfomanceLabTasks\task1\task1\bin\Release\netcoreapp3.1\publish\task1.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task3": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Acer\\Desktop\\PerfomanceLab\\tests.json C:\\Users\\Acer\\Desktop\\PerfomanceLab\\values.json"
+    }
+  }
+}
